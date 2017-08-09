@@ -1,0 +1,9 @@
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/bin/Debug/netcoreapp1.1/StarWarsDatabankApi.deps.json
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/bin/Debug/netcoreapp1.1/StarWarsDatabankApi.runtimeconfig.json
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/bin/Debug/netcoreapp1.1/StarWarsDatabankApi.runtimeconfig.dev.json
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/bin/Debug/netcoreapp1.1/StarWarsDatabankApi.dll
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/bin/Debug/netcoreapp1.1/StarWarsDatabankApi.pdb
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/obj/Debug/netcoreapp1.1/StarWarsDatabankApi.AssemblyInfo.cs
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/obj/Debug/netcoreapp1.1/StarWarsDatabankApi.dll
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/obj/Debug/netcoreapp1.1/StarWarsDatabankApi.pdb
+/home/cameron/VisualStudioCodeProjects/StarWarsDatabankApi/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
